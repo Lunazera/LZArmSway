@@ -4,4 +4,13 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="UnityEngine">
+      <HintPath>E:\Unity\2020.3.48f1\Editor\Data\Managed\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="VNyanInterface">
+      <HintPath>G:\VNyan Working\VNyanInterface.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
